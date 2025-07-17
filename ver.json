@@ -1,0 +1,5 @@
+{
+    "version": 1.1,
+    "downloadUrl": "https://your-server.com/app-update.apk",
+    "updateLog": "1. 修复了已知bug\n2. 优化了用户体验\n3. 新增了XX功能"
+}
